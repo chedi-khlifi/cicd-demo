@@ -2,7 +2,7 @@
   "name": "cicd-demo",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://YOUR_USERNAME.github.io/cicd-demo",
+  "homepage": "https://chedi-khlifi.github.io/cicd-demo",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
